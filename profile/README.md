@@ -32,7 +32,7 @@ ModuERP는 다른 ERP 시스템과의 차별점으로, 모듈식으로 기능을
 | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | 
 |   <img width="160px" src="https://avatars.githubusercontent.com/u/123484445678?v=4" />   |   <img src="https://avatars.githubusercontent.com/u/76518850?v=4" alt="@silver0-stack" width="160px" />|   <img width="160px" src="https://avatars.githubusercontent.com/u/12345678?v=4" />   |   <img width="160px" src="https://avatars.githubusercontent.com/u/23456789?v=4" />   |   <img width="160px" src="https://avatars.githubusercontent.com/u/34567890?v=4" />   |   <img width="160px" src="https://avatars.githubusercontent.com/u/45678901?v=4" />   | 
 |                     팀장                     |                     부팀장                     |                     팀원                     |                     팀원                     |                     팀원                     |                     팀원                     | 
-|   [@example](https://github.com/example)   |   [@silver0-stack](https://github.com/silver0-stack)   |   [@example1](https://github.com/example1)   |   [@example2](https://github.com/example2)   |   [@example3](https://github.com/exampl3)   |   [@example4](https://github.com/ieunji0116)   | 
+|   [@bianchi112](https://github.com/bianchi112)   |   [@silver0-stack](https://github.com/silver0-stack)   |   [@example1](https://github.com/example1)   |   [@example2](https://github.com/example2)   |   [@example3](https://github.com/exampl3)   |   [@example4](https://github.com/ieunji0116)   | 
 | 각자 맡은 파트 | 각자 맡은 파트 | 각자 맡은 파트 | 각자 맡은 파트 | 각자 맡은 파트 | 각자 맡은 파트 | 
 
 
