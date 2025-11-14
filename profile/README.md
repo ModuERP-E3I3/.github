@@ -1,4 +1,40 @@
-# ModuERP - 모듈형 ERP 통합 관리 시스템
+<div align="center">
+
+# 🏢 ModuERP  
+### 모듈형 ERP 통합 관리 시스템
+
+<br/>
+
+<!-- 메인 기술 스택 배지 -->
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/MyBatis-BF1F1F?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSP-007ACC?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+
+<br/>
+
+<!-- 협업/환경 -->
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+
+<br/>
+
+<!-- 프로젝트 상태 -->
+<img src="https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Version-1.0.0-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Last%20Update-2025.01-orange?style=for-the-badge"/>
+
+<br/><br/>
+
+<!-- Optional: 프로젝트 대표 이미지(원하면 이미지 링크 달아줘) -->
+<!-- <img src="이미지_링크.png" width="80%" /> -->
+</div>
+
+---
+
+
 
 ## 프로젝트 소개
 **ModuERP**는 조직 운영에 필요한 기능들을 모듈형으로 제공하는 ERP 웹 서비스입니다.  
